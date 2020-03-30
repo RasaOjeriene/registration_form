@@ -1,4 +1,4 @@
-##This is the repository is registration form
+## This is the repository is registration form
 
 - Changing the HTML
 - Adding Images, Fonts and Files
@@ -7,7 +7,7 @@
 
 ---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
