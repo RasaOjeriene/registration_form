@@ -1,3 +1,12 @@
+##This is the repository is registration form
+
+- Changing the HTML
+- Adding Images, Fonts and Files
+- Folder structure
+- Importing a Component
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
